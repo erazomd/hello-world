@@ -5,4 +5,4 @@ def get_destination_index(destination):
   destination_index = destinations.index(destination)
   return destination_index
 test = get_destination_index("Cairo, Egypt")
-print (test)
+print(test)
