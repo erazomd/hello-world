@@ -6,3 +6,4 @@ def get_destination_index(destination):
   return destination_index
 test = get_destination_index("Cairo, Egypt")
 print(test)
+print("hello")
